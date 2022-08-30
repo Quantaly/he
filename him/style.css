@@ -1,0 +1,23 @@
+:root {
+  font-family: "Merriweather", serif;
+  max-width: 48rem;
+  margin: auto;
+}
+
+.gender {
+  font-weight: bold;
+}
+
+.noun {
+  font-style: italic;
+}
+
+.large-pronoun {
+  display: block;
+  text-align: center;
+  font-family: "Merriweather Sans", sans-serif;
+  font-weight: bold;
+  font-size: 5rem;
+  color: forestgreen;
+  margin-bottom: 1rem;
+}
